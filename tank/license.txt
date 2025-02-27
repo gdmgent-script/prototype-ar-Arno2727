@@ -1,0 +1,8 @@
+Model Information:
+* title:	Tank
+* source:	https://sketchfab.com/3d-models/tank-617be5181a35411cbbfefa536af7e87f
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
